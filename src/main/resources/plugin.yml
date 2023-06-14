@@ -1,0 +1,9 @@
+name: HQTeam
+version: 1.0.0
+api-version: 1.13
+main: kr.hqservice.team.HQTeam
+authors: [ Cosine_A ]
+
+commands:
+  팀:
+    description: 팀 명령이입니다.
